@@ -5,7 +5,8 @@
 - 💻 email: chiaraapedrico@icloud.com
 - 🔍 Focused on Java study
 
- ![teste2](https://github.com/chiarapedrico/chiarapedrico/assets/145162756/ff70223d-a7c8-49d6-9e6b-67573be9e28d)
+![Mvb6](https://github.com/user-attachments/assets/981e36bd-3f43-4231-b797-5d5f13981e2f)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,15 +15,7 @@
   <img align="center" alt="Chi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Chi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >
   <img align="center" alt="Chi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" >
-  
-           
-     
- 
-  
-   
-          
-
-  
+         
  
 <div> 
 <div style="display: inline_block"><br>
@@ -49,6 +42,9 @@
   <a href="https://github.com/chiarapedrico/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarapedrico&layout=compact&theme=radical" width="335" />
   </a>
- </div>
+ 
+   
+  
+ 
 
 
