@@ -1,6 +1,6 @@
 ### Hiii! I'm Chiara Pedrico 𓈒ㅤׂㅤ𓇼 ࣪ㅤׂㅤ⭒
 
-- 👩🏻‍🎓 Computer Science student - IBMR
+- 👩🏻‍🎓 Computer Science student - UAM
 - 📚 Taking an extension course at "Alura"
 - 💻 email: chiaraapedrico@icloud.com
 - 🔍 Focused on Java study
