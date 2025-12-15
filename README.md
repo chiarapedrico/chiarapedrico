@@ -1,11 +1,11 @@
 ### Hiii! I'm Chiara Pedrico 𓈒ㅤׂㅤ𓇼 ࣪ㅤׂㅤ⭒
 
 - 👩🏻‍🎓 Computer Science student - UAM
-- 📚 Taking an extension course at "Alura"
+- 📚 Taking an extension course at "Cisco Academy"
 - 💻 email: chiaraapedrico@icloud.com
-- 🔍 Focused on Java study
-
-![Mvb6](https://github.com/user-attachments/assets/981e36bd-3f43-4231-b797-5d5f13981e2f)
+- 🔍 Focused on studying Java and Python
+  
+![Image](https://github.com/user-attachments/assets/9298463f-f2ec-4cd0-bb2e-9ff34ea36044)
 
 
 <div style="display: inline_block"><br>
@@ -15,6 +15,9 @@
   <img align="center" alt="Chi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Chi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >
   <img align="center" alt="Chi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" >
+   <img  align="center" alt="Chi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+  
          
  
 <div> 
